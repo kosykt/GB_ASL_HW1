@@ -1,4 +1,4 @@
-package com.example.asl_hw1;
+package com.example.gb_asl_hw1;
 
 import org.junit.Test;
 
